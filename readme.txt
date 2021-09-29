@@ -58,3 +58,9 @@ Change Statistics Values
 - Open for editing index.html
 - Find the section <!-- Statistics -->
 - And then change the value of the data-count tag for each number
+
+
+-----------------------------------------------------
+
+
+Template edited by: Template edited by: https://github.com/rodneysk/
