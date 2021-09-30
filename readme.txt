@@ -3,6 +3,10 @@ On the PoCar Caronas website we use the template template created by Inovatik, w
 
 Over the days I will increment for email registration among other features.
 
+For now, we have gone up on a free platform, we are finishing setting up a DNS parameterization so that we can use our own domain. In the meantime, you can access the site via the link:
+https://sitepocar.herokuapp.com/
+
+
 FILE STRUCTURE
 - index.html holds the entire content with Tailwind CSS utility classes
 - article.html, privacy.html and terms.html are additional pages
